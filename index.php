@@ -13,6 +13,7 @@
     <p>Selamat mencoba</p>
     <p>Selamat Belajar</p>
     <p>Selamat bekerja</p>
+    <p>Selamat</p>
     <li> 1</li>
 </body>
 
