@@ -13,8 +13,20 @@
     <p>Selamat mencoba</p>
     <p>Selamat Belajar</p>
     <p>Selamat bekerja</p>
+    <p>Selamat Malam</p>
+    <p>Selamat Istirahat</p>
+    <p>Aktifitas hari ini</p>
     <p>Selamat</p>
     <li> 1</li>
+<!-- Testimonial -->
+<section class="testimonial">
+        <div class="row justify-content-center">
+            <div class="col-lg-8">
+                <p>"Bekerja dengan suasana hati yang lebih asik, menyenangkan dan mempelajari hal baru setiap harinya serta mendapatkan new experience."</p>
+            </div>
+        </div>
+    </section>
+
 </body>
 
 </html>
