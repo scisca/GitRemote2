@@ -16,6 +16,7 @@
     <p>Selamat Malam</p>
     <p>Selamat Istirahat</p>
     <p>Aktifitas hari ini</p>
+    <p>Selamat</p>
     <li> 1</li>
 <!-- Testimonial -->
 <section class="testimonial">
